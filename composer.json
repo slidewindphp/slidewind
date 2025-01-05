@@ -15,11 +15,16 @@
         }
     ],
     "require": {
-        "php": "^8.4"
+        "php": "^8.4",
+        "ext-dom": "*",
+        "phpoffice/phppresentation": "^1.1",
+        "stevebauman/hypertext": "^1.1"
     },
     "require-dev": {
+        "jenssegers/blade": "^2.0",
+        "laravel/pint": "^1.0",
         "pestphp/pest": "^3.0",
-        "laravel/pint": "^1.0"
+        "symfony/var-dumper": "^7.2"
     },
     "autoload": {
         "psr-4": {
