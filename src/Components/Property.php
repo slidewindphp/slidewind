@@ -1,8 +1,8 @@
 <?php
 
-namespace Slidewind\Slidewind\Components;
+namespace Slidewind\Components;
 
-use Slidewind\Slidewind\ValueObjects\Property as PropertyValue;
+use Slidewind\ValueObjects\Property as PropertyValue;
 
 final class Property extends Element
 {

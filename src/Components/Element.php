@@ -1,8 +1,8 @@
 <?php
 
-namespace Slidewind\Slidewind\Components;
+namespace Slidewind\Components;
 
-use Slidewind\Slidewind\ValueObjects\Styles;
+use Slidewind\ValueObjects\Styles;
 
 abstract class Element
 {

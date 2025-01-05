@@ -1,15 +1,15 @@
 <?php
 
-namespace Slidewind\Slidewind\ValueObjects;
+namespace Slidewind\ValueObjects;
 
-use Slidewind\Slidewind\Styles\FontBold;
-use Slidewind\Slidewind\Styles\FontItalic;
-use Slidewind\Slidewind\Styles\Height;
-use Slidewind\Slidewind\Styles\Left;
-use Slidewind\Slidewind\Styles\Style;
-use Slidewind\Slidewind\Styles\Top;
-use Slidewind\Slidewind\Styles\Underline;
-use Slidewind\Slidewind\Styles\Width;
+use Slidewind\Styles\FontBold;
+use Slidewind\Styles\FontItalic;
+use Slidewind\Styles\Height;
+use Slidewind\Styles\Left;
+use Slidewind\Styles\Style;
+use Slidewind\Styles\Top;
+use Slidewind\Styles\Underline;
+use Slidewind\Styles\Width;
 
 final readonly class Styles
 {

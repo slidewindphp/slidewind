@@ -1,11 +1,11 @@
 <?php
 
-namespace Slidewind\Slidewind;
+namespace Slidewind;
 
 use DOMDocument;
 use DOMNode;
-use Slidewind\Slidewind\ValueObjects\Node;
-use Slidewind\Slidewind\ValueObjects\Styles;
+use Slidewind\ValueObjects\Node;
+use Slidewind\ValueObjects\Styles;
 
 final class Html
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Slidewind\Slidewind\Components;
+namespace Slidewind\Components;
 
 use PhpOffice\PhpPresentation\DocumentProperties;
 use PhpOffice\PhpPresentation\PhpPresentation;
-use Slidewind\Slidewind\Components\Attributes\AllowedChildren;
+use Slidewind\Components\Attributes\AllowedChildren;
 
 #[AllowedChildren([
     Slide::class,

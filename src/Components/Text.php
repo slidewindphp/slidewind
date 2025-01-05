@@ -1,11 +1,11 @@
 <?php
 
-namespace Slidewind\Slidewind\Components;
+namespace Slidewind\Components;
 
 use PhpOffice\PhpPresentation\Shape\RichText;
 use PhpOffice\PhpPresentation\Style\Color;
 use PhpOffice\PhpPresentation\Style\Font;
-use Slidewind\Slidewind\Html;
+use Slidewind\Html;
 
 final class Text extends Element
 {

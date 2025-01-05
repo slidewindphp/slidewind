@@ -1,11 +1,11 @@
 <?php
 
-namespace Slidewind\Slidewind\Components;
+namespace Slidewind\Components;
 
 use PhpOffice\PhpPresentation\Slide as PhpSlide;
 use PhpOffice\PhpPresentation\Slide\Background\Color;
 use PhpOffice\PhpPresentation\Style\Color as StyleColor;
-use Slidewind\Slidewind\Components\Attributes\AllowedChildren;
+use Slidewind\Components\Attributes\AllowedChildren;
 
 #[AllowedChildren([
     Text::class,

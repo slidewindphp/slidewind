@@ -1,6 +1,6 @@
 <?php
 
-namespace Slidewind\Slidewind\Exceptions;
+namespace Slidewind\Exceptions;
 
 use InvalidArgumentException;
 

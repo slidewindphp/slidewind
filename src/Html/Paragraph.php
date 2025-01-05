@@ -1,6 +1,6 @@
 <?php
 
-namespace Slidewind\Slidewind\Html;
+namespace Slidewind\Html;
 
 use PhpOffice\PhpPresentation\Shape\RichText\Paragraph as RichTextParagraph;
 

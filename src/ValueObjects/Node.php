@@ -1,6 +1,6 @@
 <?php
 
-namespace Slidewind\Slidewind\ValueObjects;
+namespace Slidewind\ValueObjects;
 
 use Generator;
 

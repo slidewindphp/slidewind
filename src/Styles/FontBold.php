@@ -1,6 +1,6 @@
 <?php
 
-namespace Slidewind\Slidewind\Styles;
+namespace Slidewind\Styles;
 
 class FontBold extends Style
 {

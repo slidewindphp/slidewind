@@ -1,10 +1,10 @@
 <?php
 
-namespace Slidewind\Slidewind\Components\Attributes;
+namespace Slidewind\Components\Attributes;
 
 use Attribute;
 use ReflectionClass;
-use Slidewind\Slidewind\Components\Element;
+use Slidewind\Components\Element;
 
 #[Attribute()]
 final readonly class AllowedChildren

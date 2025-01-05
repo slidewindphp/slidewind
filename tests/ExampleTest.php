@@ -1,7 +1,7 @@
 <?php
 
 use PhpOffice\PhpPresentation\Shape\AutoShape;
-use Slidewind\Slidewind\Slidewind;
+use Slidewind\Slidewind;
 
 it('can test', function () {
 

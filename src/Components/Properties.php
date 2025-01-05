@@ -1,6 +1,6 @@
 <?php
 
-namespace Slidewind\Slidewind\Components;
+namespace Slidewind\Components;
 
 use PhpOffice\PhpPresentation\DocumentProperties;
 

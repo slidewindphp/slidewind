@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Slidewind\\Slidewind\\": "src"
+            "Slidewind\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Slidewind\\Slidewind\\Tests\\": "tests"
+            "Slidewind\\Tests\\": "tests"
         }
     },
     "scripts": {
